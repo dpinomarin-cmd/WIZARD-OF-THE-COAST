@@ -1,0 +1,54 @@
+[2026-11-18 17:02:00] REGISTRO | Guerrero daniel (Nivel 20, PV 20, armaduraPesada: Sí)
+[2026-11-18 17:03:00] REGISTRO | Monje juan (Nivel 14, PV 14, puntosKi: 20)
+[2026-11-18 17:03:05] COMBATE | El Guerrero daniel usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-18 17:03:05] COMBATE | El Monje juan gasta puntos de Ki para ejecutar una Ráfaga de Golpes y un Ataque Aturdidor.
+[2026-11-18 17:05:42] REGISTRO | Guerrero juan (Nivel 18, PV 18, armaduraPesada: Sí)
+[2026-11-18 17:15:17] REGISTRO | Guerrero daniel (Nivel 20, PV 34, armaduraPesada: Sí)
+[2026-11-18 17:15:21] COMBATE | El Guerrero daniel usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-18 22:58:30] REGISTRO | juan [Clérigo Nv.1 (diosVenerado: 33), Mago Nv.1 (espaciosConjuro: 40), Explorador Nv.14 (terrenoFavorecido: 32), Paladín Nv.4 (puntosFuerza: 34)] Nivel total 20, PV 10
+[2026-11-18 23:41:43] REGISTRO | daniel [Guerrero Nv.5 (armaduraPesada: Sí), Paladín Nv.9 (puntosFuerza: 30), Clérigo Nv.3 (diosVenerado: 43), Bardo Nv.3 (instrumentoMusical: 30)] Nivel total 20, PV 22
+[2026-11-18 23:42:16] ENEMIGO | dragon (Nivel 25, PV 100, Daño 15)
+[2026-11-18 23:43:28] REGISTRO | juan [Pícaro Nv.5 (herramientasLadron: Sí), Mago Nv.5 (espaciosConjuro: 50), Monje Nv.5 (puntosKi: 100), Clérigo Nv.5 (diosVenerado: 30)] Nivel total 20, PV 39
+[2026-11-18 23:50:07] REGISTRO | daniel [Guerrero Nv.6 (armaduraPesada: Sí), Mago Nv.6 (espaciosConjuro: 50), Explorador Nv.6 (terrenoFavorecido: bosque), Paladín Nv.2 (puntosFuerza: 300)] Nivel total 20, PV 35
+[2026-11-18 23:51:02] REGISTRO | juan [Paladín Nv.5 (puntosFuerza: 300), Bardo Nv.5 (instrumentoMusical: trompeta), Monje Nv.5 (puntosKi: 200), Pícaro Nv.5 (herramientasLadron: Sí)] Nivel total 20, PV 35
+[2026-11-18 23:52:03] REGISTRO | felipe [Clérigo Nv.5 (diosVenerado: jesus), Mago Nv.5 (espaciosConjuro: 300), Guerrero Nv.5 (armaduraPesada: Sí), Explorador Nv.5 (terrenoFavorecido: llanuras)] Nivel total 20, PV 35
+[2026-11-18 23:53:27] REGISTRO | lucas [Monje Nv.5 (puntosKi: 200), Explorador Nv.5 (terrenoFavorecido: nieve), Clérigo Nv.5 (diosVenerado: jenova), Mago Nv.5 (espaciosConjuro: 10)] Nivel total 20, PV 35
+[2026-11-18 23:53:51] ENEMIGO | dragon (Nivel 25, PV 100, Daño 20)
+[2026-11-18 23:53:55] COMBATE | Party de 4 aventureros contra dragon (Nivel 25, PV 100, Daño 20)
+[2026-11-18 23:53:55] COMBATE | ¡dragon (Nivel 25, PV 100, Daño 20) (CA 22) aparece ante la party de 4 aventureros!
+[2026-11-18 23:53:55] COMBATE | --- Ronda 1 ---
+[2026-11-18 23:53:55] COMBATE | El Mago daniel gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego. Tirada d20: 19+6=25 vs CA 22. ¡Impacta! Inflige 20 de daño. (dragon: 80 PV)
+[2026-11-18 23:53:55] COMBATE | El Paladín juan consume magia para imbuir su arma con un Castigo Divino de daño radiante. Tirada d20: 18+6=24 vs CA 22. ¡Impacta! Inflige 69 de daño. (dragon: 11 PV)
+[2026-11-18 23:53:55] COMBATE | El Clérigo felipe usa Canalizar Divinidad para curar a sus aliados y expulsar muertos vivientes. Tirada d20: 7+6=13 vs CA 22. Falla.
+[2026-11-18 23:53:55] COMBATE | El Mago lucas gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego. Tirada d20: 10+6=16 vs CA 22. Falla.
+[2026-11-18 23:53:55] COMBATE | dragon ataca a daniel. Tirada d20: 14+8=22 vs CA 16. ¡Impacta! Inflige 20 de daño. (daniel: 15 PV)
+[2026-11-18 23:53:55] COMBATE | dragon ataca a lucas. Tirada d20: 7+8=15 vs CA 12. ¡Impacta! Inflige 20 de daño. (lucas: 15 PV)
+[2026-11-18 23:53:55] COMBATE | dragon ataca a lucas. Tirada d20: 8+8=16 vs CA 12. ¡Impacta! Inflige 20 de daño. (lucas: 0 PV) ¡lucas cae inconsciente!
+[2026-11-18 23:53:55] COMBATE | --- Ronda 2 ---
+[2026-11-18 23:53:55] COMBATE | El Explorador daniel aplica Marca del Cazador sobre el objetivo para maximizar su daño sostenido. Tirada d20: 17+6=23 vs CA 22. ¡Impacta! Inflige 9 de daño. (dragon: 2 PV)
+[2026-11-18 23:53:55] COMBATE | El Pícaro juan aprovecha la ventaja táctica para asestar un Ataque Furtivo masivo y se reposiciona. Tirada d20: 11+6=17 vs CA 22. Falla.
+[2026-11-18 23:53:55] COMBATE | El Clérigo felipe usa Canalizar Divinidad para curar a sus aliados y expulsar muertos vivientes. Tirada d20: 7+6=13 vs CA 22. Falla.
+[2026-11-18 23:53:55] COMBATE | dragon ataca a felipe. Tirada d20: 2+8=10 vs CA 16. Falla.
+[2026-11-18 23:53:55] COMBATE | dragon ataca a juan. Tirada d20: 10+8=18 vs CA 12. ¡Impacta! Inflige 20 de daño. (juan: 15 PV)
+[2026-11-18 23:53:55] COMBATE | dragon ataca a juan. Tirada d20: 4+8=12 vs CA 12. ¡Impacta! Inflige 20 de daño. (juan: 0 PV) ¡juan cae inconsciente!
+[2026-11-18 23:53:55] COMBATE | --- Ronda 3 ---
+[2026-11-18 23:53:55] COMBATE | El Mago daniel gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego. Tirada d20: 11+6=17 vs CA 22. Falla.
+[2026-11-18 23:53:55] COMBATE | El Guerrero felipe usa Oleada de Acción para realizar múltiples ataques físicos continuos. Tirada d20: 1+6=7 vs CA 22. ¡Pifia! Falla.
+[2026-11-18 23:53:55] COMBATE | dragon ataca a felipe. Tirada d20: 11+8=19 vs CA 16. ¡Impacta! Inflige 20 de daño. (felipe: 15 PV)
+[2026-11-18 23:53:55] COMBATE | dragon ataca a daniel. Tirada d20: 4+8=12 vs CA 16. Falla.
+[2026-11-18 23:53:55] COMBATE | dragon ataca a felipe. Tirada d20: 6+8=14 vs CA 16. Falla.
+[2026-11-18 23:53:55] COMBATE | --- Ronda 4 ---
+[2026-11-18 23:53:55] COMBATE | El Paladín daniel consume magia para imbuir su arma con un Castigo Divino de daño radiante. Tirada d20: 15+6=21 vs CA 22. Falla.
+[2026-11-18 23:53:55] COMBATE | El Mago felipe gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego. Tirada d20: 3+6=9 vs CA 22. Falla.
+[2026-11-18 23:53:55] COMBATE | dragon ataca a daniel. Tirada d20: 12+8=20 vs CA 16. ¡Impacta! Inflige 20 de daño. (daniel: 0 PV) ¡daniel cae inconsciente!
+[2026-11-18 23:53:55] COMBATE | dragon ataca a felipe. Tirada d20: 2+8=10 vs CA 16. Falla.
+[2026-11-18 23:53:55] COMBATE | dragon ataca a felipe. Tirada d20: 14+8=22 vs CA 16. ¡Impacta! Inflige 20 de daño. (felipe: 0 PV) ¡felipe cae inconsciente!
+[2026-11-18 23:53:55] COMBATE | Derrota: la party cae ante dragon en 4 ronda(s).
+[2026-11-18 23:56:26] ENEMIGO | goblin (Nivel 10, PV 20, Daño 5)
+[2026-11-18 23:56:28] COMBATE | Party de 4 aventureros contra goblin (Nivel 10, PV 20, Daño 5)
+[2026-11-18 23:56:28] COMBATE | ¡goblin (Nivel 10, PV 20, Daño 5) (CA 15) aparece ante la party de 4 aventureros!
+[2026-11-18 23:56:28] COMBATE | --- Ronda 1 ---
+[2026-11-18 23:56:28] COMBATE | El Paladín daniel consume magia para imbuir su arma con un Castigo Divino de daño radiante. Tirada d20: 2+6=8 vs CA 15. Falla.
+[2026-11-18 23:56:28] COMBATE | El Bardo juan toca su instrumento para otorgar Inspiración Bárdica a un aliado. Tirada d20: 13+6=19 vs CA 15. ¡Impacta! Inflige 8 de daño. (goblin: 12 PV)
+[2026-11-18 23:56:28] COMBATE | El Explorador felipe aplica Marca del Cazador sobre el objetivo para maximizar su daño sostenido. Tirada d20: 20+6=26 vs CA 15. ¡CRÍTICO! Inflige 14 de daño. (goblin: 0 PV)
+[2026-11-18 23:56:28] COMBATE | ¡Victoria! La party derrota a goblin en 1 ronda(s).
